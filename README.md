@@ -18,7 +18,7 @@ My implementation aims to demonstrate one synchronization technique to prevent d
 To get started with the project, clone the repository from GitHub using the following command:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/dansylvain/42_philosophers philosophers
 ```
 
 ### Compiling the Project
@@ -54,3 +54,5 @@ The "philosophers" program takes the following command-line arguments:
 ```bash
 ./philo 4 800 200 200 5
 ```
+
+Good luck with the dining philosophers!🍝
